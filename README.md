@@ -5,9 +5,9 @@
 
 # Reading List
 ## Content and Navigation
-+ [Quotes](http://github.com/engeld/reading-list/blob/master/quotes.md)
++ [Quotes](http://github.com/engeld/reading-list/blob/master/quotes.md) from books I've read.
 + [Ratings](http://github.com/engeld/reading-list/blob/master/technical-ratings.md) of technical books.
-+ [Reading list](http://github.com/engeld/reading-list/blob/master/reading-list.md)
++ [Reading list](http://github.com/engeld/reading-list/blob/master/reading-list.md) of books I would like to read.
 
 ## Inspiration
 + [bamos/reading-list](http://github.com/bamos/reading-list)
