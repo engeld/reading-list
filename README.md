@@ -11,7 +11,6 @@
 
 ## Inspiration
 + [bamos/reading-list](http://github.com/bamos/reading-list)
-+ [AnthonyMastrean/ReadingList](http://github.com/AnthonyMastrean/ReadingList)
 + [cmonty/reading-list](http://github.com/cmonty/reading-list)
 + [coryschires/reading-list](http://github.com/coryschires/reading-list)
 + [DavidRagone/reading\_list](http://github.com/DavidRagone/reading_list)
