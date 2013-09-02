@@ -9,6 +9,9 @@
 + [Ratings](http://github.com/engeld/reading-list/blob/master/technical-ratings.md) of technical books.
 + [Reading list](http://github.com/engeld/reading-list/blob/master/reading-list.md) of books I would like to read.
 
+## Why?
++ I'd like to keep track of what I've read. Some suggested GoodRead, but I neither like the webside nor any of its apps. So I'm trying to do the tracking with git and GitHub.  
+
 ## Inspiration
 + [bamos/reading-list](http://github.com/bamos/reading-list)
 + [cmonty/reading-list](http://github.com/cmonty/reading-list)
