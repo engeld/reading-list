@@ -4,6 +4,19 @@
 [Reading List](http://github.com/engeld/reading-list/blob/master/reading-list.md)
 
 # Quotes.
+
+# Bradbury, Ray
+## Fahrenheit 451
++ Date Finished: unknown
++ Rating: 7/19
++ Language: English
+
+#### Quotes
+
+#### Feedback
+
+---
+
 ## Collins, Suzanne
 ### The Hunger Games
 + Date Finished: unknown
