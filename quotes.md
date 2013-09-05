@@ -14,9 +14,12 @@ Page 42
 > But don't spend much time thinking about it. Whatever the truth is, I don't see how it will help me get food on the table.
 
 #### Feedback
-````
+```
 Nice read, very easy-going and captivating, but nothing too heavy.
-````
+```
+
+---
+
 ## Gaarder, Jostein
 ### Das Leben ist kurz – Vita Brevis
 + Date Finished: unknown
@@ -29,9 +32,36 @@ Page ??
 > Wenn es Gott gibt, möge Er euch vergeben. Aber vielleicht werdet ihr eines Tages verurteilt werden, weil ihr allen Freuden des Lebens den Rücken gekehrt habt. Ihr verleugnet die Liebe zwischen Mann und Frau. Vielleicht kann das verziehen werden. Aber ihr verleugnet sie im Namen Gottes.
 
 #### Feedback
-````
+```
 //FIXME: add Feedback
-````
+```
+
+---
+
+## Huxley, Aldous
+### Brave New World
++ Date Finished: unknown
++ Rating: 9/10
++ Language: English
+
+#### Quotes
+
+#### Feedback
+
+---
+
+## Orwell, George
+### Nineteen Eighty-Four
++ Date Finished: unknown
++ Rating: 9/10
++ Language: English/German
+
+#### Quotes
+
+#### Feedback
+
+---
+
 ## Pratchett, Terry
 ### Monstrous Regiment
 + Date Finished: unknown
@@ -43,9 +73,11 @@ Page ??
 > FIXME: add Quotes
 
 #### Feedback
-````
+```
 My favourite book of Terry Pratchetts Diskworld-series. 
-````
+```
+
+---
 
 ## Marsden, John
 ### Tomorrow, when then war began
@@ -56,6 +88,6 @@ My favourite book of Terry Pratchetts Diskworld-series.
 #### Quotes
 
 #### Feedback
-````
+```
 
-````
+```
